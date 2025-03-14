@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: charansuryakilana/ezdeploy_docker_hub:mydockerimage
+        image: shaikmustafa/cycle:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
